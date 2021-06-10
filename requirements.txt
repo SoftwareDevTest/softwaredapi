@@ -1,4 +1,4 @@
-Django==2.2.2
+Django==2.2.24
 PyMySQL==0.9.3
 xadmin==2.0.1
 django-formtools==2.1
